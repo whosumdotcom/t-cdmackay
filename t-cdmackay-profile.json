@@ -1,0 +1,42 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-08T15:07:24Z",
+  "IdClaims": [
+    {
+      "Claim": "t:cdmackay"
+    },
+    {
+      "Claim": "mdon:@cdmackay@mastodon.scot"
+    },
+    {
+      "Claim": "gh:cdmackay"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "pat:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "d34e894ed3b1d3c3df4177ed",
+    "Timestamp": "2023-04-08T15:11:53Z",
+    "Signature": "858f869e8a2a5fa0f629b076f127d748a7ef15a3e95767487f32d976d572dda37efbd0105f1b530eb038624f145547a4f46866299b18ebf8b339d96c65d3222c65fef97a6898ed6d3aeb1b148af2185c796fe5f23285307d2c3cc48def10371b33e9762dcb9bfe6a950c48c9a2157cd82fc4f6a8327b0ba5f687360b1db447a89705e7b377020333f23c99ab31a60f3cfa9172f7c2453bd809680d0d5055191846d8ca0e13652e05d0ece8375577ad023e1a94b6c54ded1ce8c3012b7824abd07cf0d31b1595abe177877151a6e030bbf0033030bad195e7cb7d52d545ea0ad63df76ff864fb378c3d9df53b9ab9dc597b4920218db91a8869a52759faa4619b"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "0c4d77242471f43eb3f1ad30dde7a555a4266f0015f1170170b514701e32e4bb",
+  "ContentToHash": "v1|gh:cdmackay,mdon:@cdmackay@mastodon.scot,med:no-account,pat:no-account,post:no-account,spout:no-account,ss:no-account,t:cdmackay|2023-04-08T15:07:24Z"
+}
